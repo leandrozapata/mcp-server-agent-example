@@ -47,7 +47,7 @@ This server acts as an intelligent bridge between your frontend application and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/agent-server-example.git
+git clone https://github.com/yourusername/mcp-agent-server-example.git
 cd agent-server-example
 ```
 
@@ -123,7 +123,7 @@ The compiled files will be in the `dist` directory.
 
 ## 🔄 Integration with Frontend
 
-This server pairs perfectly with the `agent-client-example` project, which provides a web interface for interacting with this backend.
+This server pairs perfectly with the `mcp-agent-client-example` project, which provides a web interface for interacting with this backend.
 
 ## 📋 Future Enhancements
 
