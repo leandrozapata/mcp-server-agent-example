@@ -20,7 +20,6 @@ A powerful NestJS backend that bridges OpenAI's Agent framework with MCP (Model 
 - **NestJS** framework for robust backend architecture
 - **TypeScript** for type-safe development
 - **OpenAI API** with advanced function calling capabilities
-- **Vercel AI SDK** for streamlined AI integration
 - **Axios** for efficient HTTP requests
 - **MCP Protocol** compatibility for tool execution
 
